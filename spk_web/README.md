@@ -2,9 +2,9 @@
 Untuk tugas UAS matakuliah Sistem Penunjang Keputusan (SPK)
 
 ## Author
-Nama : Obi Agustian
-NIM : 201011400884
-Kelas : 07-TPLP-013
+Nama : Obi Agustian<br>
+NIM : 201011400884<br>
+Kelas : 07-TPLP-013<br>
 
 ## Screenshot Hasil spk_web
 Hasil menggunakan GET
@@ -22,8 +22,8 @@ Hasil menggunakan POST - Metode SAW
 
 ## Kebutuhan
 1. Install Python
-2. Install Library yang diperlukan
-    Masukan perintah berikut lewat prompt:
+2. Install Library yang diperlukan<br>
+Masukan perintah berikut lewat prompt:<br>
 
     pip install -r requirements.txt
 
@@ -34,5 +34,5 @@ Masukan perintah berikut lewat prompt:
 
     python main.py
 
-Referensi:
+## Referensi:
 [https://github.com/agungperdananto](https://github.com/agungperdananto/spk_web)
