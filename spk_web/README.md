@@ -10,11 +10,11 @@ Kelas : 07-TPLP-013<br>
 Hasil menggunakan GET
 <img src='screenshot/Menggunakan Method GET.png' alt='Menggunakan Method GET'/>
 
-Hasil menggunakan POST - Metode WP
-<img src='screenshot/Menggunakan POST - Metode WP.png' alt='Metode WP'/>
-
 Hasil menggunakan POST - Metode WP (Tanpa Mode)
 <img src='screenshot/Menggunakan POST - Metode WP.png' alt='Metode WP (Tanpa Mode)'/>
+
+Hasil menggunakan POST - Metode WP
+<img src='screenshot/Menggunakan POST - Metode WP.png' alt='Metode WP'/>
 
 Hasil menggunakan POST - Metode SAW
 <img src='screenshot/Menggunakan POST - Metode SAW.png' alt='POST - Metode SAW'/>
