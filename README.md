@@ -2,9 +2,9 @@
 Untuk tugas UAS matakuliah Sistem Penunjang Keputusan (SPK)
 
 ## Author
-Nama : Obi Agustian
-NIM : 201011400884
-Kelas : 07-TPLP-013
+Nama : Obi Agustian<br>
+NIM : 201011400884<br>
+Kelas : 07-TPLP-013<br>
 
 ## Screenshot Hasil spk_model
 Hasil menggunakan metode WP dan SAW
@@ -23,5 +23,5 @@ Hasil menggunakan POST - Metode WP (Tanpa Mode)
 Hasil menggunakan POST - Metode SAW
 <img src='spk_web/screenshot/Menggunakan POST - Metode SAW.png' alt='POST - Metode SAW'/>
 
-Referensi:
+## Referensi:
 [https://github.com/agungperdananto](https://github.com/agungperdananto)
