@@ -35,4 +35,4 @@ Masukan perintah berikut lewat prompt:
     python main.py
 
 ## Referensi:
-[https://github.com/agungperdananto](https://github.com/agungperdananto/spk_web)
+[https://github.com/agungperdananto/spk_web](https://github.com/agungperdananto/spk_web)
