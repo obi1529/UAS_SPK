@@ -11,7 +11,7 @@ Hasil menggunakan GET
 <img src='screenshot/Menggunakan Method GET.png' alt='Menggunakan Method GET'/>
 
 Hasil menggunakan POST - Metode WP (Tanpa Mode)
-<img src='screenshot/Menggunakan POST - Metode WP.png' alt='Metode WP (Tanpa Mode)'/>
+<img src='screenshot/Menggunakan POST - Metode WP (Tanpa Mode).png' alt='Metode WP (Tanpa Mode)'/>
 
 Hasil menggunakan POST - Metode WP
 <img src='screenshot/Menggunakan POST - Metode WP.png' alt='Metode WP'/>
